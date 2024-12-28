@@ -1,3 +1,3 @@
-# vocabulary
+# template
 
 A new Flutter project.
